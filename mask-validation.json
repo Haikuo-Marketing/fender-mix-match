@@ -1,0 +1,34 @@
+{
+  "LBL": {
+    "mean_abs": 0.316,
+    "large_pixel_fraction": 0.0
+  },
+  "LBP": {
+    "mean_abs": 0.313,
+    "large_pixel_fraction": 0.0
+  },
+  "LBS": {
+    "mean_abs": 0.251,
+    "large_pixel_fraction": 0.0
+  },
+  "LBW": {
+    "mean_abs": 0.308,
+    "large_pixel_fraction": 0.0
+  },
+  "LLB": {
+    "mean_abs": 0.23,
+    "large_pixel_fraction": 0.0
+  },
+  "LPB": {
+    "mean_abs": 0.259,
+    "large_pixel_fraction": 0.0
+  },
+  "LSB": {
+    "mean_abs": 0.233,
+    "large_pixel_fraction": 0.0
+  },
+  "LWB": {
+    "mean_abs": 0.262,
+    "large_pixel_fraction": 0.0
+  }
+}
